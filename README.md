@@ -39,8 +39,8 @@ ExpenseVue is a simple and intuitive platform that allows users to track their i
 
 ## 🤝 Collaborators
 
-- [Danny](https://github.com/dluisvaldivia)  
-- [Joni](https://github.com/JoniXSantos)  
+- [Danny](https://github.com/dluisvaldivia)
+- [Joni](https://github.com/JoniXSantos)
 - [Monica](https://github.com/monicasolines)
 
 ---
