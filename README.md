@@ -33,7 +33,23 @@ ExpenseVue is a simple and intuitive platform that allows users to track their i
 
 ### **State & Data Management**  
 - **Flux**: Global state management.  
-- **Custom APIs**: Handling transactions, budgets, and expenses securely.  
+- **Custom APIs**: Handling transactions, budgets, and expenses securely.
+  
+---
+
+## Screenshots 📷 
+
+### General view
+![GeneralView](https://i.imgur.com/ogQcexn.gif)
+
+### Profile edit
+![ProfileEdit](https://i.imgur.com/jp0Fu8d.gif)
+
+### Bank connection
+![BankConnection](https://i.imgur.com/JTkvA4U.gif)
+
+### Source selection
+![SourceSelect](https://i.imgur.com/u20MqkH.gif)
 
 ---
 
